@@ -2,8 +2,10 @@
  Random gift recipient selector
  
  
-FTP address for files are stored as string in code
-FTP username/password values are placeholder in code, use your own
+FTP addresses for files are stored as string in code
+
+FTP username/password values are placeholders in code, use your own
+
 
 This allows you to select your name from a predefined list inside a txt file (contained on an FTP server)
 
