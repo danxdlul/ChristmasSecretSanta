@@ -17,3 +17,4 @@ The following is ensured:
 - Without access to the FTP server's user+pass, you cannot view other people's results.
 - Your choice is final
 - You only receive a gift from 1 other person
+- You will not be your own gift's recipient
